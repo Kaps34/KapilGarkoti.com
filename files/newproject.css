@@ -1,0 +1,407 @@
+html{
+	scroll-behavior: smooth;
+
+}
+body{
+
+}
+.garkoti{
+			margin-left: 600px;
+
+		}
+		.kaps{
+			font-size: 30px;
+			float: left;
+		}
+
+		.image1{
+			background-image: url(../image/preview.jpg);
+			background-size: 100% 100%;
+			
+		}
+
+		.sec_1{
+			
+			text-align: center;
+			float:none;
+			margin-top:40px	 ;
+		}
+
+		.div_1{
+			font-size: 14px;
+			float: left;
+			margin-left: 150px;
+
+		}
+		.div_2{
+			float:right;
+			background-image: url(../image/faef.jpg);
+			background-size: 100% 100%;
+			height: 700px;
+			width: 800px;
+			margin-right: 30px;
+		}
+		.sec_2{
+			float: left;
+			background-image: url(../image/35.jpg);
+			background-size:100% 100%;
+
+			margin-top: 10px;
+			width: 100%;
+			height: 800px;
+			opacity:1;
+		}
+		.div_3{
+			margin-top: 70px;
+			float: none;
+		
+		}
+		.news{
+			color: white;
+			
+		}
+		.sec_4{
+			margin-top: 1600px;
+			text-align: center;
+			height: 900px;
+
+		}
+		.div_4{
+			margin-top:px;
+			float: none;
+		}
+
+		.sec_5{
+			background-image: url(../image/fu.jpg);
+			height: 950px;
+			width:100% ;
+			color: white;
+			text-align: center;
+		}
+		.div_6{
+			color: black;
+		}
+		.a1{
+			text-align: center;
+			margin-top: 100px;
+		}
+		.sec_7{
+			
+			height: 980px;
+		}
+		.sec_8{
+			background-image: url(../image/fu.jpg);
+			height: 400px;
+			width: 100%;
+			color: white;
+			text-align: center;
+		}
+		.sec_9{
+			background-color: whitesmoke;
+			height: 250px;
+			width: 100%;
+		}
+		.p_1{
+			margin-left: 200px;
+			color: blue;
+			font-size: 15px;
+		}
+		.hr1{
+			background-color: yellow;
+			height: 2px;
+		}
+
+		.footer12{
+			font-size: 15px;
+		}
+		.div_10{
+			color: white;
+			background-color: black;
+			font-size:15px;
+			height: 50px;
+			text-align: center;
+		}
+		@media screen and (max-width: 768px){
+		.garkoti{
+					float:right;
+					margin-right: 200px;		
+		}
+
+		.sec_1{
+			
+			text-align: center;
+			float:none;
+			margin-top:10px	;
+			font-size: 2px;
+		}
+		.ads{
+			font-size: 30px;
+		}
+		.snap{
+			font-size: 15px;
+		}
+
+		.div_1{
+			font-size: 10px;
+			float: left;
+			margin-left: 100px;
+
+		}
+		.div_2{
+			float:right;
+			background-image: url(../image/faef.jpg);
+			background-size: 100% 100%;
+			height: 500px;
+			width: 100%;
+			margin-right:0px;
+			margin-top: 10px;
+		}
+		.sec_2{
+			float: left;
+		}
+
+		.sec_1{
+			
+			text-align: center;
+			float:none;
+			margin-top:40px	 ;
+		}
+
+		.div_1{
+			font-size: 14px;
+			float: left;
+			margin-left: 80px;
+
+		}
+		.div_2{
+			float:right;
+			background-image: url(../image/faef.jpg);
+			background-size: 100% 100%;
+			height: 700px;
+			width: 800px;
+			
+		}
+		.sec_2{
+			float: left;
+			background-image: url(../image/preview.jpg);
+			background-size:100% 100%;
+			margin-top: 10px;
+			width: 100%;
+			height: 1700px;
+			opacity:1;
+		}
+		.div_3{
+			margin-top: 50px;
+		
+		}
+		.sec_4{
+			margin-top: 1600px;
+			text-align: center;
+			height: 900px;
+			font-size: 15px;
+
+		}
+			.sec_5{
+			background-image: url(../image/fu.jpg);
+			height: 1980px;
+			width:100% ;
+			color: white;
+			text-align: center;
+			margin-top: 2000px;
+			font-size: 20px;
+		}
+		.image12{
+			height: 250px;
+			width: 300px;
+			margin-left: 190px;
+		}
+		.div_6{
+			color: black;
+		}
+
+		.kapil2{
+			width: 250px;
+
+			height: 250px;
+		}
+		.a1{
+			font-size: 20px;
+		}
+		.sec_7{
+			
+			height: 800px;
+		}
+		.sec_8{
+			background-image: url(../image/fu.jpg);
+			height: 450px;
+			width: 100%;
+			color: white;
+			text-align: center;
+		}
+
+
+.sec_9{
+			background-color: whitesmoke;
+			height: 250px;
+			width: 100%;
+		}
+		.p_1{
+			
+			margin-left: 50px;
+			color: blue;
+			font-size: 10px;
+		}
+		.hr1{
+			background-color: yellow;
+			height: 2px;
+		}
+
+		.footer12{
+			font-size: 10px;
+		}
+		.div_10{
+			color: white;
+			background-color: black;
+			font-size:14px;
+			height: 50px;
+			text-align: center;
+		}
+		}
+		
+
+		@media screen and (max-width: 320px){
+			.garkoti{
+				float: left;
+				margin-left: 100px;
+
+			}
+			.kaps{
+				font-size: 10px;
+			}
+			.font{
+				font-size: 10px;
+			}
+
+		.sec_1{
+			
+			text-align: center;
+			float:none;
+			margin-top:10px	;
+			font-size: 5px;
+		}
+		.ads{
+			font-size: 15px;
+		}
+		.snap{
+			font-size: 7px;
+		}
+
+		.div_1{
+			font-size: px;
+			float: left;
+			margin-left: 2px;
+
+		}
+		.div_2{
+			float:right;
+			background-image: url(../image/faef.jpg);
+			background-size: 100% 100%;
+			height: 500px;
+			width: 100%;
+			margin-right:0px;
+			margin-top: 10px;
+		}
+			.sec_2{
+			float: left;
+			background-image: url(../image/preview.jpg);
+			background-size:100% 100%;
+			margin-top: 10px;
+			width: 100%;
+			height: 1300px;
+			opacity:1;
+			font-size: 10px;
+		}
+		.div_3{
+			margin-top: 50px;
+		
+		}
+
+		.sec_4{
+			margin-top: 1600px;
+			text-align: center;
+			height: 500px;
+			font-size:10px;
+
+		}
+		.every{
+			font-size: 20px;
+		}
+		.sec_5{
+			background-image: url(../image/fu.jpg);
+			height: 2050px;
+			width:100% ;
+			color: white;
+			text-align: center;
+			margin-top: 2200px;
+		}
+		.image12{
+			height: 300px;
+			width: 290px;
+			margin-left:0px;
+			float: left;
+		}
+		.div_6{
+			color: black;
+		}
+		.kapil2{
+			width: 250px;
+
+			height: 250px;
+		}
+		.a1{
+			font-size: 20px;
+		}
+		.sec_7{
+			
+			height: 1400px;
+			font-size: 10px;
+		}
+.sec_8{
+			background-image: url(../image/fu.jpg);
+			height: 450px;
+			width: 100%;
+			color: white;
+			text-align: center;
+			font-size: 12px;
+		}
+
+
+.sec_9{
+			background-color: whitesmoke;
+			height: 250px;
+			width: 100%;
+		}
+		.p_1{
+			margin-left: 10px;
+			color: blue;
+			font-size: px;
+		}
+		.hr1{
+			background-color: yellow;
+			height: 2px;
+		}
+
+		.footer12{
+			font-size: 8px;
+			
+		}
+		.div_10{
+			color: white;
+			background-color: black;
+			font-size:10px;
+			height: 50px;
+			text-align: center;
+		}
+
+		}
+		
